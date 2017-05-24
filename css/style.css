@@ -132,7 +132,7 @@ a {text-decoration: none;}
 .head-inner .head-img {
     position: absolute;
     right: 10px;
-    bottom: 0px;
+    bottom: -43px;
     height: auto;
 }
 .store-links {
@@ -501,7 +501,6 @@ body.arb .footer .contact-area {
 @media screen and (max-width:1023px){
     .sect-head, body.arb .sect-head {margin: 0 0 30px;}
     .head-inner .text-area {width: 43%;}
-    .head-inner .head-img {bottom: 40px;}
     .head-inner .text-area h3 {font-size: 40px; line-height: 45px; }
     .head-inner .text-area p {font-size: 20px; line-height: 25px;}
     .home .right .text-area, .search .text-area, body.arb .home .right .text-area, body.arb .search .text-area {padding: 40px 0 0 30px; font-size:16px;}
