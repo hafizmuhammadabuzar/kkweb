@@ -61,7 +61,7 @@ a {text-decoration: none;}
     margin: 40px auto 0;
 }
 .header {
-    background: url("../images/bg1.jpg") no-repeat;
+    background: url("../images/bg1.jpg") no-repeat center top;
     padding: 50px 0 0;
 }
 .header .header-top .header-right {
@@ -394,7 +394,7 @@ body.arb .footer .holder {
     -ms-filter: "FlipH";
 }*/
 body.arb .header {
-    background: url("../images/bg1-arb.jpg") no-repeat;
+    background: url("../images/bg1-arb.jpg") no-repeat center top;
 }
 body.arb .header .header-top .header-right ul li:first-child a:before {
     border-color:#fff;
