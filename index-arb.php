@@ -80,7 +80,7 @@
 			<div class="text-area">
 				<h2 class="sect-head">appstore</h2>
 				<p>حمل التطبيق من متجر أبل و متجر بلاي واستمتع باستعراض فعالياتنا من حولك</p>
-				<a href="#" class="btn-appstore">appstore</a>
+				<a href="https://appsto.re/pk/iawZib.i" target="_blank" class="btn-appstore">appstore</a>
 				<a href="#footer" class="arrow"></a>
 			</div>
 		</div>
@@ -88,7 +88,7 @@
 			<div class="text-area">
 				<h2 class="sect-head">playstore</h2>
 				<p>حمل التطبيق من متجر أبل و متجر بلاي واستمتع باستعراض فعالياتنا من حولك</p>
-				<a href="#" class="btn-playstore">playstore</a>
+				<a href="#" target="_blank" class="btn-playstore">playstore</a>
 				<div class="arrow-wrap">
 					<a href="#footer" class="arrow"></a>
 				</div>

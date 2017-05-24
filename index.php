@@ -84,7 +84,7 @@
 			<div class="text-area">
 				<h2 class="sect-head">appstore</h2>
 				<p>Download now and start adding events now on iPhone</p>
-				<a href="#" class="btn-appstore">appstore</a>
+				<a href="https://appsto.re/pk/iawZib.i" target="_blank" class="btn-appstore">appstore</a>
 				<a href="#footer" class="arrow"></a>
 			</div>
 		</div>
@@ -92,7 +92,7 @@
 			<div class="text-area">
 				<h2 class="sect-head">playstore</h2>
 				<p>Download now and start adding events now on Android</p>
-				<a href="#" class="btn-playstore">playstore</a>
+				<a href="#" target="_blank" class="btn-playstore">playstore</a>
 				<div class="arrow-wrap">
 					<a href="#footer" class="arrow"></a>
 				</div>
