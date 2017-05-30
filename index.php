@@ -41,7 +41,8 @@
 					<p>Find your favorite events,<br> Add your Events and activities,<br> and share it to all the Emirates and cities.  </p>
 					<ul class="store-links">
 						<li><a href="#"><img src="images/appstore.png"></a></li>
-						<li class="play-store"><a href="#"><img src="images/playstore.png"></a></li>
+						<li class="play-store">
+						<a href="#"><img src="images/playstore.png"></a></li>
 					</ul>
 					<a href="#home" class="arrow"></a>
 				</div>
