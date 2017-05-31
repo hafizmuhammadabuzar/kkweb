@@ -254,7 +254,7 @@
 					<h3>مفاتيح الخير</h3>
 					<p>استعرض الفعاليات الهادفة من حولك، واعرض فعالياتك الخاصة بك وشاركها</p>
 					<ul class="store-links">
-						<li><a href="https://appsto.re/pk/iawZib.i">
+						<li><a href="https://appsto.re/pk/iawZib.i" target="_blank">
 							<svg version="1.2" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" width="90%" viewBox="57 342.7 511 169" xml:space="preserve">
 <g>
@@ -348,7 +348,7 @@
 </svg>
 						</a></li>
 						<li class="play-store">
-						<a href="#">
+						<a href="https://play.google.com/store/apps/details?id=com.synergistics.khairkeysevents" target="_blank">
                             <svg
        xmlns:dc="http://purl.org/dc/elements/1.1/"
        xmlns:cc="http://creativecommons.org/ns#"
@@ -823,7 +823,7 @@
 			<div class="text-area">
 				<h2 class="sect-head">playstore</h2>
 				<p>حمل التطبيق من متجر أبل و متجر بلاي واستمتع باستعراض فعالياتنا من حولك</p>
-				<a href="#" target="_blank" class="btn-playstore">playstore</a>
+				<a href="https://play.google.com/store/apps/details?id=com.synergistics.khairkeysevents" target="_blank" class="btn-playstore">playstore</a>
 				<div class="arrow-wrap">
 					<a href="#footer" class="arrow"></a>
 				</div>
